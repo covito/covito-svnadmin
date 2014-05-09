@@ -1,7 +1,7 @@
-monsoon-svnadmin
+covito-svnadmin
 ================
 
-monsoon-svnadmin 是基于svnadmin上进行修改<br>
+covito-svnadmin 是基于svnadmin上进行修改<br>
 
 主要改动为：<br>
 
